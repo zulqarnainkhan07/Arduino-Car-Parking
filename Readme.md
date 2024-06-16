@@ -64,6 +64,3 @@ This project implements a simple car parking system using Arduino, IR sensors, a
 ## Connect with me
 - Feel free to reach out to me through my social media platforms on LinkedIn.
 [LinkedIn Account](https://www.linkedin.com/in/zulqarnain-ahmed07/)
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
